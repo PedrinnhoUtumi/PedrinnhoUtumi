@@ -14,6 +14,7 @@
 
 ## Trabalho:
 - Magvia Produtos Médicos Ltda
+- Trabalhando com sistemas embarcados e programação orientada a objetos
 
 ## Redes Sociais:
 - Instagram: Pedro_utumi
