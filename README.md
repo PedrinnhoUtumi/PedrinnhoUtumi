@@ -12,9 +12,13 @@
 - CSS
 - C++
 
-## Trabalho
+## Trabalho:
 - Magvia Produtos Médicos Ltda
 
+## Redes Sociais:
+- Instagram: Pedro_utumi
+- Linkedln: Pedro Utumi
+- Email: Pedroutumi@gmail.com
 
 
 <!--
