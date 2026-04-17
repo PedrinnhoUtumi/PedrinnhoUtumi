@@ -53,7 +53,7 @@ Escola Natividade de Nossa Senhora
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,postgres,mysql,pascal&theme=dark" />
 
 </p>
 
